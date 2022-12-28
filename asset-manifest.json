@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-photo-fetch/static/css/main.650879d6.css",
+    "main.js": "/react-photo-fetch/static/js/main.84420f21.js",
+    "index.html": "/react-photo-fetch/index.html",
+    "main.650879d6.css.map": "/react-photo-fetch/static/css/main.650879d6.css.map",
+    "main.84420f21.js.map": "/react-photo-fetch/static/js/main.84420f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.650879d6.css",
+    "static/js/main.84420f21.js"
+  ]
+}
